@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="survey_toplist_item">#EFEDEC</color>
+    <color name="survey_alternate_color">#EBE7E6</color>
+    <color name="white">#fff</color>
+    <color name="itemselected">#EDEDED</color>
+    <color name="login_hover">#E5F5FA</color>
+    <color name="grey">#aaa</color>
+
+</resources>
